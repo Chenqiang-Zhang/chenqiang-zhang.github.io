@@ -2,6 +2,7 @@
 title: "深度学习——LeNet卷积神经网络初探"
 pubDatetime: 2024-11-13T09:06:04.000Z
 modDatetime: 2024-12-09T11:34:31.671Z
+featured: true
 description: "简单介绍： 从网络结构可以看出LeNet对于现在的大模型来说是一个非常小的神经网络，他一共由7个层顺序连接组成。分别是卷积层、pooling层、卷积层、pooling层和三个全连接层。用现代的深度学习框架来实现代码如下："
 tags:
   - deep learning
