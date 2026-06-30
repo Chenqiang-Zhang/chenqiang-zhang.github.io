@@ -33,8 +33,29 @@ const homePath = getRelativeLocaleUrl(locale, "");
     data-home-path={homePath}
     class="app-layout"
   >
-    <section id="hero" class="border-border border-b pt-8 pb-6">
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
+    <div class="relative mt-4 mb-10">
+      <img
+        src="/img/banner-light.webp"
+        alt=""
+        loading="eager"
+        class="h-44 w-full rounded-xl object-cover sm:h-60 dark:hidden"
+      />
+      <img
+        src="/img/banner-dark.webp"
+        alt=""
+        loading="eager"
+        class="hidden h-44 w-full rounded-xl object-cover sm:h-60 dark:block"
+      />
+      <img
+        src="/apple-touch-icon.png"
+        alt="Site logo"
+        width="80"
+        height="80"
+        class="border-background bg-background absolute -bottom-8 left-4 size-20 rounded-full border-4 shadow-md sm:left-6"
+      />
+    </div>
+    <section id="hero" class="border-border border-b pb-6">
+      <h1 class="mb-4 inline-block text-4xl font-bold sm:text-5xl">
         Hi, welcome to my blog
       </h1>
       <a

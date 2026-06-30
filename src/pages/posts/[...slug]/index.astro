@@ -63,6 +63,7 @@ const {
   title,
   description,
   ogImage: initOgImage,
+  cover,
   canonicalURL,
   pubDatetime,
   modDatetime,
@@ -131,6 +132,17 @@ const ogImage = ogImageUrl
       </span>
       <EditPost {hideEditPost} {post} class="max-sm:hidden" />
     </div>
+
+    {
+      cover && (
+        <img
+          src={cover}
+          alt={`${title} cover image`}
+          loading="eager"
+          class="mt-4 aspect-[40/21] w-full rounded-lg object-cover"
+        />
+      )
+    }
 
     <article
       id="article"

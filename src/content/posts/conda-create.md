@@ -1,5 +1,6 @@
 ---
 title: "conda_create"
+cover: "/img/conda-create/cover.webp"
 pubDatetime: 2024-12-08T14:49:46.000Z
 modDatetime: 2024-12-10T10:03:59.096Z
 description: "conda下载没什么需要注意的，也不用按着啥教程来，直接去官网上下载就行，不过这里处于节约内存的考虑，我下载的是 miniconda。相较于anaconda的满血版，miniconda更为轻量级，因为主环境一般也不方…"

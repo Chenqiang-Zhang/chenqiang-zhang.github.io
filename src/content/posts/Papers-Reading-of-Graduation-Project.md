@@ -1,5 +1,6 @@
 ---
 title: "Graduation Project--Papers Reading"
+cover: "/img/Papers-Reading-of-Graduation-Project/cover.webp"
 pubDatetime: 2024-12-25T14:52:06.000Z
 modDatetime: 2025-01-05T08:50:33.332Z
 description: "读的论文越多才发现自己对课题理解越浅薄，很多问题点没有搞清楚就开始着手实现细节，慢慢地埋下了许多祸根。不过目前读到的论文也普遍存在一个共同的问题——没有开源，实验就都是不可复制的，对实验精度还是普遍存疑的。本着开源精…"

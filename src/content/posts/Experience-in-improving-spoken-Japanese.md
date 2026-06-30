@@ -1,5 +1,6 @@
 ---
 title: "Experience in improving spoken Japanese"
+cover: "/img/Experience-in-improving-spoken-Japanese/cover.webp"
 pubDatetime: 2024-12-02T08:23:38.000Z
 modDatetime: 2024-12-26T01:48:25.220Z
 description: "斥巨资5r买来的经验贴，感觉很实用所以整理好了放在自己的blog上，期待有缘人发现，当然如果有兴趣提升日语口语的欢迎和我talk😉😉😉🤩🤩🤩！"
